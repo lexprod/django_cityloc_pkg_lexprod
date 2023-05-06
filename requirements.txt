@@ -1,4 +1,2 @@
 #add any project dependencies here
 django>=3.2
-pyOpenSSL>=20.0.0
-cryptography>=3.4
